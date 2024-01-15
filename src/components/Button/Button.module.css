@@ -1,0 +1,20 @@
+.buttonAction {
+    background-color: var(--color-black-dark);
+    border: 1px solid var(--color-gray-light);
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 1.3125rem;
+    font-weight: 600;
+    padding: 8px 32px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.primary {
+    background-color: var(--color-primary-medium);
+    border: none;
+}
+.secondary {
+    background-color: var(--color-gray-medium);
+    border: none;
+    color: var(--color-black-dark);
+}
